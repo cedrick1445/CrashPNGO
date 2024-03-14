@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Craps PNGO</string>
+    <string name="agree">Agree &amp; Continue</string>
+    <string name="disagree">Disagree</string>
+
+    <string name="facebook_app_id">1414312172454392</string>
+    <string name="facebook_client_token">3f33cc2b7e4757f778616b76e7eb0fca</string>
+
+    <string name="ca_admob_id">ca-app-pub-2840757175333883~2462645293</string>
+    <string name="ad_small_content">ca-app-pub-2840757175333883/4197618544</string>
+</resources>
